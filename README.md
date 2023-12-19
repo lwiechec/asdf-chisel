@@ -2,7 +2,7 @@
 
 # asdf-chisel [![Build](https://github.com/lwiechec/asdf-chisel/workflows/Build/badge.svg)](https://github.com/lwiechec/asdf-chisel/actions/workflows/build.yml) [![Lint](https://github.com/lwiechec/asdf-chisel/workflows/Lint/badge.svg)](https://github.com/lwiechec/asdf-chisel/actions/workflows/lint.yml)
 
-[chisel](https://github.com/jpillors/chisel) plugin for the [asdf version manager](https://asdf-vm.com).
+[chisel](https://github.com/jpillora/chisel) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
